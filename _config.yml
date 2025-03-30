@@ -7,3 +7,4 @@ markdown: kramdown
 theme: minimal
 plugins:
   - jekyll-feed
+header_pages: []
