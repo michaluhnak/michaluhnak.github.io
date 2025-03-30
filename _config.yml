@@ -1,0 +1,9 @@
+title: Blog of Michal Uhnak
+description:
+baseurl: ""
+url: "https://michaluhnak.github.io"
+github_username: michaluhnak
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
