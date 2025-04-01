@@ -1,7 +1,9 @@
 ---
-created: 2025-04-01
+created: ""
 category:
   - posts
+categories:
+  - Life in Spain
 type:
   - blogpost
   - personal
@@ -10,11 +12,13 @@ created date: 2023-10-23
 layout: post
 topic:
   - Spain
+  - immigration
 tags:
   - ITV
   - vehicle-inspection
   - bureaucracy
   - imigrant-life
+  - life-in-spain
 place:
   - Parcent
   - Spain
