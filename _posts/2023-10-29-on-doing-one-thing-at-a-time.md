@@ -15,17 +15,15 @@ tags:
   - learning
   - coll-de-rates
   - cycling
+  - musings
 place:
   - Parcent
 author:
   - Michal Uhnak
-url: 
+url: https://michaluhnak.github.io/posts/2023/10/29/on-doing-one-thing-at-a-time.html
 published on: michaluhnak.github.com
 categories:
-  - musings
 ---
-# On doing one thing at a time
-
 *A Coll de Rates?* — a friendly neighbour asked as I walked out on the street with my bicycle. *“Sí, a Tárbena”* — I responded. I was happy my planned route exceeded the neighbour’s guess by more than 100%.
 
 When I reached the climb I hit play on a work related podcast and put the phone back into the jersey’s back pocket. On this ride I needed to get out of my own thoughts and rather listen to someone else’s. I replayed an episode I discussed with a colleague on a call earlier that day.

@@ -2,8 +2,7 @@
 created: ""
 category:
   - posts
-categories:
-  - Life in Spain
+categories: 
 type:
   - blogpost
   - personal
@@ -19,13 +18,14 @@ tags:
   - bureaucracy
   - imigrant-life
   - life-in-spain
+  - experiences
 place:
   - Parcent
   - Spain
   - Comunidad Valenciana
 author:
   - Michal Uhnak
-url: 
+url: https://michaluhnak.github.io/posts/2023/10/24/A-humbling-experience-at-Spanish-vehicle-inspection.html
 published on: michaluhnak.github.com
 ---
 ## The arrival to *la importación*
