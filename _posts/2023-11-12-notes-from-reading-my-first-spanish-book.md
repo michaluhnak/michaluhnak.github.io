@@ -27,8 +27,6 @@ url: https://michaluhnak.github.io/2023/11/12/notes-from-reading-my-first-spanis
 published on: michaluhnak.github.com
 first published on: Buttondown newsletter
 ---
-# Notes from reading my first Spanish book
-
 *It was "just" *Harry Potter y la piedra filosofal*, but still a big personal milestone.*
 ___
 My last visit to a bookstore was in June in Bratislava before taking a bus to Schwechat airport. It was more to drink coffee and take a video call from there than to look at the books. Had I known how much I’ll miss a bookstore or a library in a few months, I would have soaked in more of the atmosphere.
