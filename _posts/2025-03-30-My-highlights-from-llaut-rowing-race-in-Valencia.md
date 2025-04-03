@@ -30,8 +30,8 @@ published on: michaluhnak.github.com
 `draft`
 ## The vibes at the venue
 I don't know if it was because I was a reserve and was able to relax more, but the atmosphere at this regatta was special. It was a wonderful spring day in the port, lively and bustling with the members of 52 (!) crews from different categories.
-![IMG_0137](IMG_0137.jpeg)
+![crews getting their boats ready for the regatta](/attachments/IMG_0137.jpeg)
 ## The Valencian port and the beach
 I was only in Valencia's city centre a few times before. This regatta was my first time in Marina de València, and it was beautiful. Modern but with what seemed as historic industrial buildings.
 During a longer break I also managed to go for a run through Marina and to the Playa del Cabañal. I haven't seen so much life in a while. Not a party life, but runners, frisbee matches, voleyball matches, surfers...
-![IMG_0161](IMG_0161.jpeg)
+![Crews warming up in their boats in the waters of Marina de Valencia](/attachments/IMG_0161.jpeg)
