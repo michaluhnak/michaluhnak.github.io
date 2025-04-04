@@ -7,8 +7,7 @@ type:
   - personal
 title: My highlights from Llaüt Regatta in Valencia
 layout: post
-categories:
-  - coastal rowing
+categories: []
 date: 2025-03-30T23:00:00
 topic:
   - rowing
