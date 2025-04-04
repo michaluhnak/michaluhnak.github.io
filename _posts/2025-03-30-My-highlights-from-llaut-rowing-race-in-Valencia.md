@@ -48,7 +48,7 @@ Real Club Náutico Valencia look most professional. They always warm up together
 
 Crew of Real Club Náutico Dénia cleans their boat almost in a sacred way. Everyone has hands-on the deck, literally. There was a person that did the final cleaning touch with a window squeegee. I don't know if it was their cox, but he seemed so determined he wouldn't let anyone else do the job.
 
-![IMG_0139](IMG_0139.jpeg)
+![IMG_0139](/Attachments/IMG_0139.jpeg)
 
 ## The skill and power
 I was watching the time trial from a wonderful spot on Veles e Vents building. The spot was at the buoy which allowed me to watch the crews' turning techniques from up close.
