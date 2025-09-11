@@ -5,7 +5,7 @@ category:
 type:
   - blogpost
   - personal
-title: Family trip to Copenhaguen, Denmark
+title: Family trip to Copenhaguen in Denmark
 layout: post
 categories: []
 date: 2025-09-11T23:00:00
