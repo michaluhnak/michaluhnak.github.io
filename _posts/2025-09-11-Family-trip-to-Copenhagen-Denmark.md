@@ -21,7 +21,7 @@ place:
   - Copenhagen
 author:
   - Michal Uhnak
-url: https://michaluhnak.github.io/2025/09/11/Family-trip-Copenhagen-Denmark.html
+url: https://michaluhnak.github.io/2025/09/11/Family-trip-to-Copenhagen-Denmark.html
 created date: 2025-09-11
 published on: michaluhnak.github.com
 ---
