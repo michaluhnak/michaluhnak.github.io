@@ -26,7 +26,6 @@ url: https://michaluhnak.github.io/2025/03/30/Regata-Valencia.html
 created date: 2025-04-03
 published on: michaluhnak.github.com
 ---
-`draft`
 
 On March 30th the Fixed-bank rowing league season of 2024/2025 continued with a regatta in Valencia. It was organized by Club de Remo Ciudad de Valencia. Here's how I saw it.
 ## The vibes at the venue
