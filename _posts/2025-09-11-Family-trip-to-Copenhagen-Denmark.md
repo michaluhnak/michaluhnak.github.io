@@ -18,7 +18,7 @@ tags:
   - family
   - scandinavia
 place:
-  - Copenhaguen
+  - Copenhagen
 author:
   - Michal Uhnak
 created date: 2025-04-03
